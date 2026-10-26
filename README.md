@@ -1,16 +1,14 @@
-## Hi there 👋
+Верстаю и дорабатываю сайты. Начинал с доработок на фрилансе, сейчас делаю и с нуля.
 
-<!--
-**VladimirSezinGit/VladimirSezinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Что умею:**
+- Верстка по макетам из Figma — HTML, CSS, адаптив под мобильные
+- Tilda — сборка, настройка, доработка готовых проектов
+- WordPress — правки, темы, плагины, админка
+- JavaScript на уровне правок и простых скриптов (формы, слайдеры, анимации)
+- Формы, аналитика, интеграции — чтобы сайт не просто выглядел, а работал
 
-Here are some ideas to get you started:
+**Связаться:**
+- Telegram — @ник
+- Почта — если нужна
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Открыт к удалённой работе и проектам. Если есть задача по сайту — пишите, обсудим.
